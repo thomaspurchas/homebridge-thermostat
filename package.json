@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-thermostat",
-  "version": "0.0.20",
-  "description": "thermostat plugin for homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-thermostat-fake",
+  "version": "0.0.1",
+  "description": "fake thermostat plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
@@ -10,18 +10,18 @@
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
   },
-  "author": "Pierre-Julien Cazaux",
+  "author": "Thomas Purchas",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PJCzx/homebridge-thermostat.git"
+    "url": "git+https://github.com/thomaspurchas/homebridge-thermostat.git"
   },
   "dependencies": {
     "request": "^2.65.0"
   },
   "bugs": {
-    "url": "https://github.com/PJCzx/homebridge-thermostat/issues"
+    "url": "https://github.com/thomaspurchas/homebridge-thermostat/issues"
   },
-  "homepage": "https://github.com/PJCzx/homebridge-thermostat#readme",
+  "homepage": "https://github.com/thomaspurchas/homebridge-thermostat#readme",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
